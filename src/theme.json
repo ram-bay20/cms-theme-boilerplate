@@ -1,9 +1,8 @@
 {
-  "label": "CMS theme boilerplate",
+  "label": "ALien Theme",
   "author": {
-    "name": "HubSpot",
-    "email": "hs-content-assets@hubspot.com",
-    "url": "https://www.hubspot.com/"
+    "name": "Ramnath Mandal",
+    "email": "ramnath.bay20@gmail.com"
 	},
   "documentation_url": "https://developers.hubspot.com/docs/cms/building-blocks/themes/hubspot-cms-boilerplate",
   "example_url": "https://boilerplate.hubspotcms.com",
